@@ -1,0 +1,29 @@
+body {
+	border-color: red cyan gold;
+	padding: 50px 400px;
+	background-color: rgba(255, 120, 20, 0.5);
+	max-width: 2000px;
+	margin: 0 auto;
+	font-size: 1.1em;
+}
+h1 {
+	width: 650px;
+	background-color: orange;
+	text-align: center;
+	color: white;
+	font-family: monospace;
+}
+image {
+	align-items: center;
+	width: 300px;
+}
+h2 {
+	color: black;
+}
+Picture {
+	font-family: monospace;
+}
+.lesson {
+	color: brown;
+	font-family: fantasy;
+}
